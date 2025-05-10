@@ -1,2 +1,5 @@
 # TaraLadkaDemo
-A demo git repository 
+A demo Git repository.
+<br>
+Author: TaraLadka
+
